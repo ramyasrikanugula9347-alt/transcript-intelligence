@@ -1,4 +1,4 @@
-# Transcript Intelligence — revised assessment
+# Transcript Intelligence - revised assessment
 
 An offline, interpretable baseline for the supplied sample. No API keys or generated data. Python 3.10+.
 
