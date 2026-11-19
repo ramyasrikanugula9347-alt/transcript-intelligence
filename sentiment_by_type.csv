@@ -1,0 +1,4 @@
+﻿call_type,meetings,segments,positive,neutral,negative,unknown,positive_pct,neutral_pct,negative_pct,unknown_pct
+Support,30,1191,110,765,316,0,9.24,64.23,26.53,0.0
+Internal,30,1301,262,817,222,0,20.14,62.8,17.06,0.0
+External,40,1821,791,846,184,0,43.44,46.46,10.1,0.0

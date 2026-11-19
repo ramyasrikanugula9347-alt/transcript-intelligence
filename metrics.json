@@ -1,0 +1,138 @@
+{
+  "meetings": 100,
+  "segments": 4313,
+  "overall": {
+    "neutral": 2428,
+    "negative": 722,
+    "positive": 1163
+  },
+  "sentiment": [
+    {
+      "call_type": "Support",
+      "meetings": 30,
+      "segments": 1191,
+      "positive": 110,
+      "neutral": 765,
+      "negative": 316,
+      "unknown": 0,
+      "positive_pct": 9.24,
+      "neutral_pct": 64.23,
+      "negative_pct": 26.53,
+      "unknown_pct": 0.0
+    },
+    {
+      "call_type": "Internal",
+      "meetings": 30,
+      "segments": 1301,
+      "positive": 262,
+      "neutral": 817,
+      "negative": 222,
+      "unknown": 0,
+      "positive_pct": 20.14,
+      "neutral_pct": 62.8,
+      "negative_pct": 17.06,
+      "unknown_pct": 0.0
+    },
+    {
+      "call_type": "External",
+      "meetings": 40,
+      "segments": 1821,
+      "positive": 791,
+      "neutral": 846,
+      "negative": 184,
+      "unknown": 0,
+      "positive_pct": 43.44,
+      "neutral_pct": 46.46,
+      "negative_pct": 10.1,
+      "unknown_pct": 0.0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-02",
+      "call_type": "External",
+      "segments": 446,
+      "negative_pct": 3.14
+    },
+    {
+      "month": "2026-02",
+      "call_type": "Internal",
+      "segments": 334,
+      "negative_pct": 3.59
+    },
+    {
+      "month": "2026-02",
+      "call_type": "Support",
+      "segments": 320,
+      "negative_pct": 23.12
+    },
+    {
+      "month": "2026-03",
+      "call_type": "External",
+      "segments": 597,
+      "negative_pct": 19.77
+    },
+    {
+      "month": "2026-03",
+      "call_type": "Internal",
+      "segments": 432,
+      "negative_pct": 32.87
+    },
+    {
+      "month": "2026-03",
+      "call_type": "Support",
+      "segments": 510,
+      "negative_pct": 33.33
+    },
+    {
+      "month": "2026-04",
+      "call_type": "External",
+      "segments": 778,
+      "negative_pct": 6.68
+    },
+    {
+      "month": "2026-04",
+      "call_type": "Internal",
+      "segments": 535,
+      "negative_pct": 12.71
+    },
+    {
+      "month": "2026-04",
+      "call_type": "Support",
+      "segments": 361,
+      "negative_pct": 19.94
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Reliability & Incidents",
+      "meetings": 90,
+      "segments": 548
+    },
+    {
+      "topic": "Security & Compliance",
+      "meetings": 94,
+      "segments": 633
+    },
+    {
+      "topic": "Commercial & Retention",
+      "meetings": 47,
+      "segments": 223
+    },
+    {
+      "topic": "Product & Features",
+      "meetings": 86,
+      "segments": 405
+    },
+    {
+      "topic": "Identity & Integrations",
+      "meetings": 60,
+      "segments": 366
+    }
+  ],
+  "unmatched_meetings": 0,
+  "unmatched_segments": 2496,
+  "actions": 397,
+  "meetings_with_actions": 100,
+  "risk_actions": 49
+}
